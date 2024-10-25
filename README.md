@@ -30,7 +30,7 @@ The Risk Management Template helps identify, assess, and manage risks associated
 Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or additional resources.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
 ## Contact
 For any questions or feedback, please reach out to me:
