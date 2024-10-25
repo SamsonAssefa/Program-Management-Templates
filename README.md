@@ -29,7 +29,6 @@ The Risk Management Template helps identify, assess, and manage risks associated
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or additional resources.
 
-## License
 
 
 ## Contact
